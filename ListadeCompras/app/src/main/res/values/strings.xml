@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="informe_o_produto">Informe o Produto</string>
+    <string name="adicionar_item">Adicionar Item</string>
+    <string name="listar_itens">Listar Itens</string>
+</resources>
