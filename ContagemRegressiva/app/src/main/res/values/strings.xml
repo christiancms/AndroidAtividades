@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Contagem Regressiva</string>
+    <string name="iniciar_contagem">Iniciar Contagem</string>
+</resources>
